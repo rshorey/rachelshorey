@@ -1,0 +1,19 @@
+h1, h2, h3, h4, h5, h6, p, div {
+    font-family: 'Inconsolata', Georgia, Times, serif;
+}
+
+h1 {
+
+    font-family: 'Righteous', Arial, serif;
+}
+
+.first-words {
+    font-size: x-large;
+}
+
+.row-same-height {
+  display: table;
+  width: 100%;
+  /* fix overflow */
+  table-layout: fixed;
+}
