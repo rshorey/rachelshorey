@@ -16,4 +16,13 @@ h1 {
   width: 100%;
   /* fix overflow */
   table-layout: fixed;
+  
+}
+
+.next-category{
+    padding-top: 20px;
+}
+
+.col-sm-4{
+    padding-bottom: 5px;
 }
