@@ -26,3 +26,23 @@ h1 {
 .col-sm-4{
     padding-bottom: 5px;
 }
+
+.currently{
+    background-color: #eeeeee;
+}
+
+.formerly{
+    background-color: #dddddd;
+}
+
+.projects{
+    background-color: #cccccc;
+}
+
+.front-page{
+    background-image: url("../img/doorway.jpg");
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
