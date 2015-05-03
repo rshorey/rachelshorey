@@ -27,6 +27,11 @@ h1 {
     padding-bottom: 5px;
 }
 
+
+.whole-page{
+    background-color: #eeeeee;
+}
+
 .currently{
     background-color: #eeeeee;
 }
@@ -40,7 +45,7 @@ h1 {
 }
 
 .front-page{
-    background-image: url("../img/doorway.jpg");
+    background-image: url("../img/sunset.jpeg");
     background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
